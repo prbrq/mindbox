@@ -7,12 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindbox_lib", "mindbox_lib\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindbox_tests", "mindbox_tests\mindbox_tests.csproj", "{65EB3015-A3EF-4CCD-838B-0103886358C4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{8AE52BFC-D1DF-4B58-B2C7-62130D330F23}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\db.png = ..\..\..\Desktop\db.png
-		..\..\..\Desktop\query.sql = ..\..\..\Desktop\query.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
